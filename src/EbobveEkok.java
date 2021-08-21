@@ -5,7 +5,7 @@ public class EbobveEkok {
 		Scanner scan = new Scanner(System.in);
 		int a, b;
 		
-		System.out.print("1.Raka: ");
+		System.out.print("1.Rakam: ");
 		a = scan.nextInt();
 		
 		System.out.print("2.Rakam: ");
